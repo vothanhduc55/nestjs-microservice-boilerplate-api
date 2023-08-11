@@ -39,7 +39,7 @@
     "jsonwebtoken": "^9.0.0",
     "luxon": "^3.2.1",
     "mongoose": "^6.9.0",
-    "mongoose-paginate-v2": "^1.7.1",
+    "mongoose-paginate-v2": "^1.7.23",
     "node-cache": "^5.1.2",
     "opentracing": "^0.14.7",
     "pg": "^8.10.0",
