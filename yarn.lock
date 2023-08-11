@@ -5842,10 +5842,10 @@ mongodb@4.16.0, mongodb@^4.7:
     "@aws-sdk/credential-providers" "^3.186.0"
     saslprep "^1.0.3"
 
-mongoose-paginate-v2@^1.7.1:
-  version "1.7.1"
-  resolved "https://registry.yarnpkg.com/mongoose-paginate-v2/-/mongoose-paginate-v2-1.7.1.tgz#0b390f5eb8e5dca55ffcb1fd7b4d8078636cb8f1"
-  integrity sha512-J8DJw3zRXcXOKoZv+RvO9tt5HotRnbo2iCR3lke+TtsQsYwQvbY3EgUkPqZXw6qCX2IByvXrW5SGNdAB0od/Cw==
+mongoose-paginate-v2@^1.7.23:
+  version "1.7.31"
+  resolved "https://registry.yarnpkg.com/mongoose-paginate-v2/-/mongoose-paginate-v2-1.7.31.tgz#c6569688702483e80a28c599314474107f17481f"
+  integrity sha512-Zz7i/1k7/MJqipzttn9SUenbcW1hC63qBOB7HHBNMfIfg0AOPFT2CdAWpeAJ7BBGEQ4qC1Gu02fIaSeMmXOT0A==
 
 mongoose@^6.9.0:
   version "6.11.2"
