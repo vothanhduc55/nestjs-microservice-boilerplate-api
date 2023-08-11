@@ -36,7 +36,7 @@
     "colorette": "^2.0.19",
     "convert-pino-request-to-curl": "^0.0.29",
     "jaeger-client": "^3.19.0",
-    "jsonwebtoken": "^9.0.0",
+    "jsonwebtoken": "^9.0.1",
     "luxon": "^3.2.1",
     "mongoose": "^6.9.0",
     "mongoose-paginate-v2": "^1.7.1",
