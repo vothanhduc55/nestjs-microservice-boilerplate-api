@@ -47,7 +47,7 @@
     "pino": "^8.5.0",
     "pino-http": "^8.2.0",
     "pino-mongodb": "^4.3.0",
-    "pino-pretty": "^9.1.0",
+    "pino-pretty": "^10.3.0",
     "redis": "^4.6.4",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.2.0",
