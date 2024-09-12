@@ -51,7 +51,7 @@
     "axios": "^1.6.7",
     "axios-better-stacktrace": "^2.1.6",
     "axios-retry": "^4.0.0",
-    "body-parser": "^1.20.2",
+    "body-parser": "^1.20.3",
     "class-validator": "^0.14.1",
     "colorette": "^2.0.20",
     "compression": "^1.7.4",
